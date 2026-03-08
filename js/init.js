@@ -124,14 +124,15 @@ var penelope = function() {
 	/*SmoothScroll End*/
 	
 	/*Typed js start*/
-	$("#typed").typed({
-		strings: ["^2100&nbsp;I am James Oneyibo.<br/>Control / Automation Engineer<br/> (Also web and mobile designer sometimes)"],
+	var typedEl = $("#typed");
+	var typedString = typedEl.attr('data-typed-string') || "^2100&nbsp;Olen James Oneyibo.<br/>Lähihoitaja<br/>(Lasten ja nuorten osaamisala)";
+	typedEl.typed({
+		strings: [typedString],
 		typeSpeed: 30,
 		backDelay: 750,
 		loop: false,
 		cursorChar: "...",
-		contentType: 'html', // or text
-		// defaults to false for infinite loop
+		contentType: 'html',
 		loopCount: false
 	});
 	/*Typed js end*/
@@ -212,17 +213,17 @@ var penelope = function() {
 	}
 	/*Header script end*/
 	
-	/*Wow animation(Optional) start*/
-	/*var wow = new WOW(
+	/*Wow animation start*/
+	var wow = new WOW(
 	{
-	boxClass: 'wow', // animated element css class (default is wow)
-	animateClass: 'animated', // animation css class (default is animated)
-	offset: 0, // distance to the element when triggering the animation (default is 0)
-	mobile: false, // trigger animations on mobile devices (default is true)
-	live: true // act on asynchronously loaded content (default is true)
+	boxClass: 'wow',
+	animateClass: 'animated',
+	offset: 0,
+	mobile: true,
+	live: true
 	}
 	);
-	wow.init();*/
+	wow.init();
 	/*Wow animation end*/
 }
 /***** penelope function end *****/
