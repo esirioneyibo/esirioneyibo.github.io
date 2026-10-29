@@ -32,7 +32,7 @@ async function main() {
     page.on('response', response => { if (response.status() >= 400) errors.push(response.status() + ' ' + response.url()); });
     for (const width of [375, 768, 1440]) {
       await page.setViewportSize({ width, height: 1000 });
-      for (const file of ['index.html', 'en.html', 'resume.html']) {
+      for (const file of ['index.html', 'en.html', 'resume.html', 'resume-fi.html']) {
         await page.goto(base + '/' + file, { waitUntil: 'networkidle' });
         const info = await page.evaluate(() => ({ overflow: document.documentElement.scrollWidth > innerWidth, headings: document.querySelectorAll('h1').length, projects: document.querySelectorAll('.project').length }));
         assert.deepEqual(info, { overflow: false, headings: 1, projects: 9 }, width + ' ' + file);
@@ -51,12 +51,36 @@ async function main() {
     await page.screenshot({path:'/tmp/oneyibo-portfolio-mobile.png'});
     await page.locator('a.language').click();
     assert.equal(await page.locator('html').getAttribute('lang'), 'fi');
+    assert.equal(await page.locator('.hero .outline').getAttribute('href'), 'resume-fi.html');
+    assert(await page.getByText('Vakituinen työntekijä', {exact:false}).isVisible());
+    await page.locator('#project-1 summary').click();
+    assert(await page.getByText('Android-sovellus kuljettajille', {exact:true}).isVisible());
+    await page.setViewportSize({width:1440,height:1000});
+    await page.locator('.hero').scrollIntoViewIfNeeded();
+    await page.screenshot({path:'/tmp/oneyibo-portfolio-finnish.png'});
+    await page.locator('.hero .outline').click();
+    assert.equal(await page.locator('html').getAttribute('lang'), 'fi');
+    assert.equal(await page.locator('h1').textContent(), 'James Oneyibo');
+    assert(await page.getByRole('link', {name:'Lataa PDF-ansioluettelo',exact:true}).isVisible());
+    if (fs.existsSync(path.join(root, 'resume-fi.pdf'))) {
+    const downloadPromise = page.waitForEvent('download');
+    await page.getByRole('link', {name:'Lataa PDF-ansioluettelo',exact:true}).click();
+    const download = await downloadPromise;
+    assert.equal(download.suggestedFilename(), 'resume-fi.pdf');
+    assert.equal(await download.failure(), null);
+    }
+    await page.locator('a.language').click();
+    assert.equal(await page.locator('html').getAttribute('lang'), 'en');
+    assert(page.url().endsWith('/resume.html'));
     await page.setViewportSize({width:1200,height:630});
-    await page.goto(base + '/img/social-card.svg');
-    await page.locator('svg').screenshot({path:path.join(root,'img/social-card.png')});
-    await page.goto(base + '/resume.html');
-    await page.emulateMedia({media:'print'});
-    await page.pdf({path:path.join(root,'resume.pdf'),format:'A4',margin:{top:'14mm',bottom:'14mm',left:'14mm',right:'14mm'}});
+    for (const suffix of ['', '-fi']) {
+      await page.emulateMedia({media:'screen'});
+      await page.goto(base + '/img/social-card' + suffix + '.svg');
+      await page.locator('svg').screenshot({path:path.join(root,'img/social-card' + suffix + '.png')});
+      await page.goto(base + '/resume' + suffix + '.html');
+      await page.emulateMedia({media:'print'});
+      await page.pdf({path:path.join(root,'resume' + suffix + '.pdf'),format:'A4',margin:{top:'14mm',bottom:'14mm',left:'14mm',right:'14mm'}});
+    }
     assert.deepEqual(errors, []);
     console.log('PASS: language switching, navigation, browser errors, local responses; PDF and PNG generated.');
   } finally {

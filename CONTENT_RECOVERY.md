@@ -41,3 +41,7 @@ Confirm nursing completion and current qualification/card validity before assert
 ## Validation results
 
 Structural/content checks, JavaScript syntax and Git whitespace checks passed. Headless Chromium checked all three pages at 375, 768 and 1440 pixels: no horizontal overflow, nine project cards and exactly one main heading per page. No JavaScript errors or failed local asset requests occurred. Link verification covers static local targets and the Nadaruns website/store links; actual email delivery, telephone calls and Android installation were not tested.
+
+## Complete Finnish localization
+
+`data/profile.fi.json` supplies Finnish skills, projects, development statuses, roles, experience, education and strengths. Hero/sidebar text, contact location, footer, project accessible labels and social metadata are localized. Product names, tool names and institutions retain their official names. Finnish visitors receive a Finnish HTML, PDF and text resume, with a language switch to the equivalent English resume. Dates, permanent Merikristalli employment, qualification uncertainty and verified project links are preserved in both languages.

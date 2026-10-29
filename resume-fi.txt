@@ -1,0 +1,151 @@
+James Oneyibo
+
+Ohjelmistokehittäjä & automaatioinsinööri
+
+Teknologiayrittäjä | Verkkosovellusten kokonaisvaltainen kehittäjä | Tekoäly- ja automaatioratkaisujen rakentaja
+
+Valkeakoski, Suomi | esirioneyibo@gmail.com | +358 45 672 6453
+
+https://github.com/esirioneyibo
+
+PROFIILI
+
+Olen monialainen ohjelmistokehittäjä ja automaatioinsinööri, jota motivoivat teknologia, yrittäjyys ja käytännön ongelmanratkaisu.
+
+Valmistuin sähkö- ja automaatiotekniikasta vuonna 2013 ja aloitin itsenäisen ohjelmistokehityksen opiskelun. Aloitin HTML:stä, CSS:stä ja verkkosuunnittelusta ja laajensin osaamistani Pythoniin, Ruby on Railsiin, Flutteriin, React Nativeen, Next.js:ään, tietokantoihin ja pilvipalveluihin.
+
+Olen työskennellyt logistiikka-alustojen, liiketoimintasovellusten, algoritmisten kaupankäyntijärjestelmien, mobiilisovellusten, tuottavuussovellusten ja automaatiotyökalujen parissa. Perustin Nadarunsin yhdistämään vapaan kuljetuskapasiteetin toimituksia tarvitseviin yrityksiin.
+
+Taustaani kuuluu teollisuustyötä, terveydenhuollon opintoja ja käytännön kokemusta, nuorisopalveluita sekä varhaiskasvatusta. Nämä kokemukset ohjaavat minua suunnittelemaan teknologiaa ihmisten ja yritysten todellisiin tarpeisiin. Tavoitteeni on kehittää hyödyllisiä, luotettavia ja saavutettavia teknologiatuotteita.
+
+TEKNINEN OSAAMINEN
+
+Käyttöliittymät ja verkkokehitys: HTML5, CSS3, JavaScript, TypeScript, React, Next.js, WordPress, Verkkokehitys Ruby on Railsilla, Responsiivisten käyttöliittymien kehitys, Hallintapaneelit ja liiketoimintasovellusten käyttöliittymät
+
+Taustajärjestelmät ja rajapinnat: Python, FastAPI, Ruby on Rails, Node.js-sovellusympäristöt, REST-rajapintojen kehitys, Tunnistautuminen ja käyttöoikeuksien hallinta, Asynkroninen sovellusarkkitehtuuri, Taustaprosessointi, Liiketoimintalogiikka ja rajapintaintegraatiot
+
+Mobiilikehitys: Flutter, Dart, React Native, Expo, Android-sovellusten kehitys, Mobiilisovellusten rajapintaintegraatiot, Julkaisu Google Playssa, Mobiilisovellusten vianmääritys
+
+Tietokannat: PostgreSQL, MongoDB, Redis, SQLAlchemy, Alembic, Tietomallinnus, indeksointi, pysyväistallennus ja tietokantamigraatiot
+
+Tekoäly ja automaatio: Tekoälyavusteinen ohjelmistokehitys, Suurten kielimallien rajapintaintegraatiot, Algoritmiset kaupankäyntijärjestelmät, Automaattinen päätöksentekologiikka, Markkinadatan käsittely, Työnkulkujen automatisointi, Sääntöpohjainen riskienhallinta, Puheentunnistuksen ja kääntämisen kokeilut
+
+Julkaisu, ylläpito ja työkalut: Git, GitHub, Linux-virtuaalipalvelinten ylläpito, Nginx, PM2, systemd, Hostinger, CloudPanel, HTTPS/SSL ja DNS, Python Poetry, Pytest, Tuotantoympäristöön julkaisu ja virheiden selvittäminen
+
+Suunnittelu ja sisällöntuotanto: Adobe Photoshop, WordPress-sisällönhallinta, Tekninen dokumentointi, Sisällöntuotanto, Mobiili- ja verkkopalvelujen käyttöliittymät ja käyttäjäkokemus, Markkinointimateriaalit, Tuotteiden lokalisointi englanniksi ja suomeksi
+
+Muu tekninen kokemus: Javan perusteet, Tauri-työpöytäsovellusten kokeilut, Windows-työpöytätyökalut, Sähkö- ja automaatiotekniikan perusteet
+
+Teollisuusautomaatio ja CAD-suunnittelu: PLC- ja HMI-ohjelmointi, Siemens Step7, Allen-Bradley, Omron CX-One, Beckhoff-ohjelmoitavat logiikat, LabVIEW, MATLAB, CAD Planner, AutoCAD Electrical, SolidWorks, SketchUp, ABB- ja KUKA-teollisuusrobotit, Automaattinen ohjaus, instrumentointi, sähkökeskusten sijoittelusuunnittelu ja konesuunnittelu
+
+PROJEKTIT
+
+Nadaruns | Julkaistu | Perustaja ja tuotekehittäjä
+
+Logistiikkateknologia-alusta, joka yhdistää lähettäjät itsenäisiin kuljettajiin ja vapaaseen kuljetuskapasiteettiin.
+
+Next.js, React Native, Expo, FastAPI, PostgreSQL, Linux VPS, Nginx
+
+Android-sovellus kuljettajille
+
+Lähettäjien tilaustenhallinta ja hallintapaneeli
+
+Lähetysten seuranta ja kuljettajien käyttöönotto
+
+Hinnoittelu, palkkiot ja arvonlisäverolaskenta
+
+Maksuasiakirjat
+
+Noudon ja toimituksen vahvistaminen
+
+Lokalisointi englanniksi ja suomeksi
+
+Verkkosivusto: https://nadaruns.com
+
+Android-sovellus Google Playssa: https://play.google.com/store/apps/details?id=com.nadaruns.driver
+
+AegisTrade AI | Kehitys ja testaus | Kehittäjä
+
+Python-pohjainen algoritminen kryptovaluuttojen kaupankäyntialusta, joka sisältää markkinaskannauksen, kaupankäyntistrategiat, positioiden hallinnan, dynaamisen riskisuojauksen, pörssi-integraatiot ja suorituskyvyn seurannan.
+
+Python, FastAPI, PostgreSQL, Redis, WebSockets, Pörssien rajapinnat, Pytest
+
+Kehitys- ja testausprojekti. Kannattavuutta ei ole todennettu, eikä tuotetta ole julkaistu kaupallisesti.
+
+OfferHub | MVP-version kehitys | Perustaja ja kehittäjä
+
+Digitaalinen tarjous- ja kumppanuusmarkkinapaikka, jossa on kauppiaslistaukset, tarjousten löytäminen, kategoriaselaus, haku, hallintatyökalut ja kumppanuuslinkkien uudelleenohjausten seuranta.
+
+Next.js, TypeScript, MongoDB
+
+NexusCRM | Kehitysprojekti | Kehittäjä
+
+Tekoälyyn suuntautuva asiakkuudenhallintasovellus, jossa on liidit, yhteystiedot, myyntiputket, tehtävät, tapahtumahistoria ja asiakkuudenhallinnan työnkulut.
+
+GuardianPC | Kehitysprojekti | Kehittäjä
+
+Windowsin lapsilukkosovellus, joka sisältää ruutuajan seurannan, muokattavat käyttöaikataulut, käyttökiellot määrättyinä aikoina, salasanalla suojatut poikkeukset ja käytön hallinnan.
+
+Python, Windows-työpöytäsovellusten kehitys
+
+Sukupuusovellus | Flutter-projekti | Kehittäjä
+
+Mobiilisovellus perhesuhteiden, perheprofiilien ja sukututkimustietojen hallintaan.
+
+Flutter, Dart, JSON, Paikallinen pysyväistallennus
+
+MyOwnWay | Konsepti | Projektikonsepti
+
+Kuntoilun seurantaan tarkoitetun sovelluksen konsepti.
+
+Reaaliaikainen litterointi ja kääntäminen | Kokeilu | Kehittäjä
+
+Alustariippumattoman puheentunnistuksen ja kääntämisen kokeilu.
+
+AI Terminal | Kokeilu | Kehittäjä
+
+Työpöytäkäyttöön tarkoitetun ohjelmistokehittäjän työkalun kokeilu.
+
+TYÖKOKEMUS
+
+Perustaja ja tuotekehittäjä | Nadaruns |  | Tuotekehitys, logistiikan työnkulut, mobiili- ja verkkojärjestelmät, liiketoiminta, asiakasviestintä sekä tekninen julkaisu ja käyttöönotto.
+
+Itsenäinen ohjelmistokehittäjä | Itsenäinen opiskelu ja projektipohjainen kehitys | 2013–nykyhetki | Verkkosivustot, mobiilisovellukset, taustajärjestelmät ja automaatio. Jatkuvaa itsenäistä oppimista vuodesta 2013.
+
+WordPress-kehitys ja sisällöntuotanto | Projektipohjainen kokemus |  | Verkkosivustojen toteutus, WordPress-ylläpito ja sisällöntuotanto.
+
+Nuorisopalvelut | Merikristalli Oy | 2024–nykyhetki · Vakituinen työntekijä | Työskentelen tällä hetkellä vakituisessa työsuhteessa. Työhöni kuuluu nuorten ohjausta ja käytännön tukea, päivittäisiä toimintoja, ryhmätoimintaa, emotionaalista tukea ja vuorovaikutusta.
+
+Varhaiskasvatus | Valkeakosken kaupunki · Vanhankylän päiväkoti | 01/2025–06/2025 | Lasten hoito, päivittäiset rutiinit, ohjaus, ryhmätoiminta, osallistaminen ja vuorovaikutus.
+
+Terveydenhuollon ja lähihoitotyön kokemus | Hoivakoti Wäinämöinen · Pirha | 2024–2025 | Kesätyö ja sijaisuudet, käytännön hoitotyö sekä arjen toiminnoissa avustaminen.
+
+Koneenhoitaja ja laaduntarkkailija | Styroplast Oy | 03/2011–12/2022 | EPS-koneiden käyttö, yleiset huoltotehtävät ja laadunvalvonta. Teollisuuden tiimityö, työprosessien huolellinen noudattaminen, käytännön vianmääritys ja luotettavuus.
+
+Varhaisjakelu | Ojamomedia Oy | 2010–2011 | Aiemmassa ansioluettelossa dokumentoitu jakelutyö.
+
+Laboratorion tutkimusavustaja | HAMK Automaint | 04/2010–09/2010 | Siemens- ja Beckhoff-logiikoiden ohjelmointi ja vianmääritys, CAD-mallien kehittäminen sekä ABB- ja KUKA-teollisuusrobottien ohjelmointi ja vianmääritys.
+
+Työnjohtaja | Missabib Oy | 05/2009–11/2010 | Työntekijöiden ohjaus ja työn valvonta.
+
+Käytännön harjoittelu | Valkeakosken nuorisopalvelut |  | Nuorten ohjaus, nuortenillat ja tapahtumat, Ihana valo -tapahtuman järjestäminen sekä nuorisotyön kokouskäytännöt. Muut hoitoalan ja varhaiskasvatuksen harjoittelut sisältyvät yllä oleviin alan kokemusta kuvaaviin kohtiin.
+
+KOULUTUS
+
+Sähkö- ja automaatiotekniikka · Insinööri (AMK) | Hämeen ammattikorkeakoulu · Valkeakoski, Suomi | 2008–2013 · Valmistunut 2013
+
+Lähihoitaja- ja terveydenhuollon opinnot | TAKK · Tampere, Suomi | 2023–2024 · Suomalainen ammatillinen koulutus ja käytännön harjoittelu. Tutkinnon suorittamisen tiedot vahvistetaan myöhemmin.
+
+Itsenäinen ohjelmistokehityksen opiskelu | Jatkuva oppiminen | 2013–nykyhetki
+
+Meritekniikka · National Diploma -tutkinto | Federal College of Fisheries & Marine Technology · Lagos, Nigeria | 2006–2008
+
+Toisen asteen päättötutkinto | Ewu Grammar School · Ewu-Urhobo, Deltan osavaltio, Nigeria | 1995–2001
+
+VAHVUUDET
+
+Analyyttinen ajattelu, Itsenäinen oppiminen, Ongelmanratkaisu, Yrittäjyys, Monialainen ymmärrys, Tekninen vianmääritys, Tuotekehitys, Sopeutumiskyky, Viestintä ja vuorovaikutus, Tiimityö, Luovuus, Jatkuva kehittäminen
+
+KIELET JA KIINNOSTUKSEN KOHTEET
+
+Englanti: äidinkieli. Suomi: hyvä suullinen ja tyydyttävä kirjallinen taito. Tuotekehitys ja lokalisointi englanniksi ja suomeksi. Vapaaehtoistoiminta, ulkoilu ja retkeily perheen kanssa.
