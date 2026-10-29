@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://esirioneyibo.github.io/sitemap.xml

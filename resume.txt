@@ -1,0 +1,151 @@
+James Oneyibo
+
+Software Developer & Automation Engineer
+
+Technology Entrepreneur | Full-Stack Developer | AI & Automation Solutions Builder
+
+Valkeakoski, Finland | esirioneyibo@gmail.com | +358 45 672 6453
+
+https://github.com/esirioneyibo
+
+PROFILE
+
+I am a multidisciplinary software developer and Automation Engineering graduate with a passion for technology, entrepreneurship and practical problem-solving.
+
+After graduating in Electrical and Automation Engineering in 2013, I began learning software development independently. My journey started with HTML, CSS and web design and expanded into Python, Ruby on Rails, Flutter, React Native, Next.js, database systems and cloud deployment.
+
+I have worked on logistics platforms, business applications, algorithmic trading systems, mobile applications, productivity software and automation tools. I founded Nadaruns to connect available transport capacity with businesses requiring delivery services.
+
+My broader background includes industrial work, healthcare-related studies and experience, youth services and early childhood education. These experiences influence how I design technology around real human and business needs. My goal is to continue developing useful, reliable and accessible technology products.
+
+TECHNICAL SKILLS
+
+Frontend & Web: HTML5, CSS3, JavaScript, TypeScript, React, Next.js, WordPress, Ruby on Rails web development, Responsive UI development, Admin dashboards and business interfaces
+
+Backend & APIs: Python, FastAPI, Ruby on Rails, Node.js application environments, REST API development, Authentication and authorization, Asynchronous architecture, Background processing, Business logic and API integrations
+
+Mobile: Flutter, Dart, React Native, Expo, Android application development, Mobile API integration, Google Play deployment, Mobile application troubleshooting
+
+Databases: PostgreSQL, MongoDB, Redis, SQLAlchemy, Alembic, Data modeling, indexing, persistence and migrations
+
+AI & Automation: AI-assisted software development, LLM API integration, Algorithmic trading systems, Automated decision logic, Market-data processing, Workflow automation, Rule-based risk management, Speech recognition and translation exploration
+
+DevOps & Tools: Git, GitHub, Linux VPS management, Nginx, PM2, systemd, Hostinger, CloudPanel, HTTPS/SSL and DNS, Python Poetry, Pytest, Production deployment and debugging
+
+Design & Content: Adobe Photoshop, WordPress content management, Technical documentation, Content writing, Mobile and web UI/UX, Promotional materials, English/Finnish product localization
+
+Additional Technical Experience: Java fundamentals, Tauri desktop application exploration, Windows desktop utilities, Electrical and Automation Engineering principles
+
+Industrial Automation & CAD: PLC and HMI programming, Siemens Step7, Allen-Bradley, Omron CX-One, Beckhoff PLCs, LabVIEW, MATLAB, CAD Planner, AutoCAD Electrical, SolidWorks, SketchUp, ABB and KUKA industrial robots, Automated controls, instrumentation, panel layout and machine design
+
+PROJECTS
+
+Nadaruns | Launched | Founder & Product Developer
+
+A logistics technology platform connecting shippers with independent drivers and available transport capacity.
+
+Next.js, React Native, Expo, FastAPI, PostgreSQL, Linux VPS, Nginx
+
+Android driver application
+
+Shipper-facing order management and admin dashboard
+
+Shipment tracking and driver onboarding
+
+Pricing, commissions and VAT calculations
+
+Payment documents
+
+Pickup and delivery confirmation
+
+English and Finnish localization
+
+Website: https://nadaruns.com
+
+Android on Google Play: https://play.google.com/store/apps/details?id=com.nadaruns.driver
+
+AegisTrade AI | Development / Testing | Developer
+
+A Python-based algorithmic cryptocurrency trading platform for market scanning, trading strategies, position management, dynamic risk protection, exchange integration and performance monitoring.
+
+Python, FastAPI, PostgreSQL, Redis, WebSockets, Exchange APIs, Pytest
+
+Development and testing project; no claim of verified profitability or commercial launch.
+
+OfferHub | MVP Development | Founder & Developer
+
+A digital offers and affiliate marketplace with merchant listings, offer discovery, category navigation, search, administrative management and affiliate redirect tracking.
+
+Next.js, TypeScript, MongoDB
+
+NexusCRM | Development Project | Developer
+
+An AI-oriented customer relationship management application with leads, contacts, sales pipelines, tasks, activity timelines and customer management workflows.
+
+GuardianPC | Development Project | Developer
+
+A Windows parental-control application featuring screen-time tracking, configurable schedules, curfews, password-protected overrides and usage management.
+
+Python, Windows desktop development
+
+Family Tree Application | Flutter Project | Developer
+
+A mobile application for managing family relationships, family profiles and genealogy records.
+
+Flutter, Dart, JSON, Local persistence
+
+MyOwnWay | Concept | Project concept
+
+Fitness tracking application concept.
+
+Live Transcription & Translation | Exploration | Developer
+
+Cross-platform speech recognition and translation exploration.
+
+AI Terminal | Exploration | Developer
+
+Desktop developer-tool exploration.
+
+EXPERIENCE
+
+Founder & Product Developer | Nadaruns |  | Product development, logistics workflows, mobile and web systems, business operations, customer communication and technical deployment.
+
+Independent Software Developer | Independent learning and project-based development | 2013–Present | Websites, mobile applications, backend systems and automation. Continuous independent learning since 2013.
+
+WordPress & Content Development | Project-based experience |  | Website creation, WordPress management and content writing.
+
+Youth Services | Merikristalli Oy | From 2024 · current status unconfirmed | Guidance and practical support for young people, daily activities, group activities, emotional support and communication. The previous CV listed substitute work from 2024; current employment status is not asserted.
+
+Early Childhood Education | City of Valkeakoski · Vanhankylän päiväkoti | 01/2025–06/2025 | Childcare, daily routines, guidance, group activities, participation and communication.
+
+Healthcare & Practical Nursing Experience | Hoivakoti Wäinämöinen · Pirha | 2024–2025 | Summer and substitute work, practical care and support with everyday activities.
+
+Machine Operator & Quality Control | Styroplast Oy | 03/2011–12/2022 | EPS machine operation, general maintenance and quality control. Industrial teamwork, process discipline, practical troubleshooting and reliability.
+
+Early-morning Distribution | Ojamomedia Oy | 2010–2011 | Distribution work documented in the previous CV.
+
+Laboratory Research Assistant | HAMK Automaint | 04/2010–09/2010 | Programming and troubleshooting Siemens and Beckhoff PLCs; developing CAD models; programming and troubleshooting ABB and KUKA industrial robots.
+
+Foreman | Missabib Oy | 05/2009–11/2010 | Worker supervision.
+
+Practical Training | Valkeakoski youth services |  | Youth guidance, youth evenings and events, Ihana valo event organization and youth-service meetings. Other care and early-childhood placements are covered in the relevant entries above.
+
+EDUCATION
+
+Electrical & Automation Engineering · B.Eng | HAMK University of Applied Sciences · Valkeakoski, Finland | 2008–2013 · Graduated 2013
+
+Practical Nursing / Healthcare Studies | TAKK · Tampere, Finland | 2023–2024 · Finnish vocational education and practical training; qualification completion details to be confirmed.
+
+Independent Software Development | Continuous learning | 2013–Present
+
+Marine Engineering · National Diploma | Federal College of Fisheries & Marine Technology · Lagos, Nigeria | 2006–2008
+
+Senior Secondary School Certificate Examination | Ewu Grammar School · Ewu-Urhobo, Delta State, Nigeria | 1995–2001
+
+STRENGTHS
+
+Analytical thinking, Independent learning, Problem-solving, Entrepreneurship, Cross-disciplinary understanding, Technical troubleshooting, Product development, Adaptability, Communication, Teamwork, Creativity, Continuous improvement
+
+LANGUAGES & INTERESTS
+
+English: native. Finnish: good spoken, satisfactory written. English/Finnish product localization. Volunteering, outdoor activities and hiking with family.
