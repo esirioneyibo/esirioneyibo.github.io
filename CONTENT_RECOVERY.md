@@ -18,7 +18,7 @@ The repository contains 15 commits. The final overhaul `c016659` replaced the de
 
 - Latest owner instructions explicitly leave nursing completion unconfirmed. The former site's December 2024 graduation claim is not repeated. TAKK 2023–2024 studies are retained.
 - Styroplast uses the newer documented end date December 2022 rather than the old stale “Present”.
-- Merikristalli's previous “2024–ongoing” entry is described as documented experience without asserting current employment.
+- The owner confirmed current permanent employment at Merikristalli Oy. The entry now states 2024–Present and permanent employment; the date permanent employment began is not asserted.
 - Previous first-aid/hygiene/work-safety card claims, driving licence and in-progress LOVe status require current confirmation before adding qualification claims to a refreshed resume.
 - Third-party referee contact information was not republished. References can be supplied privately when confirmed.
 - A commented-out template “Oxwalk Ducks” internship is excluded: this was not a visible personal experience claim.
@@ -36,7 +36,7 @@ Replaced inaccessible empty navigation links, zoom restrictions, invented skill 
 
 ## Remaining verification
 
-Confirm nursing completion, current qualification/card validity and current Merikristalli employment before asserting them. Confirm any project technologies not provided (especially NexusCRM). No unsupported external project links are rendered.
+Confirm nursing completion and current qualification/card validity before asserting them. Confirm any project technologies not provided (especially NexusCRM). No unsupported external project links are rendered.
 
 ## Validation results
 
